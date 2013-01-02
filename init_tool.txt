@@ -1,0 +1,17 @@
+echo Initting project's folder
+
+echo press any key continue
+pause
+md docs
+cd docs
+md books
+md project_docs
+cd..
+md note
+md code
+md config
+md release
+echo Initted project's folder successfully
+echo press any key continue
+pause
+exit
