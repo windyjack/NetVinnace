@@ -1,0 +1,8 @@
+学习starUML 设计类功能
+
+starUML 生成基础实体类代码测试通过
+
+测试源：docs/project_docs/UMLModel.uml-->designModel.platformComman.SystemEntries
+
+测试结果目录:code/testCode
+
