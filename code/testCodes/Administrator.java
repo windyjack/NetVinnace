@@ -4,16 +4,25 @@
 //
 //  @ Project : TeamServiceManager
 //  @ File Name : Administrator.java
+<<<<<<< HEAD
 //  @ Date : 2013-1-3
 //  @ Author : windy
+=======
+//  @ Date : 2013-1-2
+//  @ Author : 
+>>>>>>> origin/master
 //
 //
 
 
 
 
+<<<<<<< HEAD
 /**
  * 最高管理员用户类
 **/
 public class Administrator extends SystemRole {
+=======
+public class Administrator extends PaltFormUser {
+>>>>>>> origin/master
 }

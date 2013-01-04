@@ -4,18 +4,27 @@
 //
 //  @ Project : TeamServiceManager
 //  @ File Name : PaltFormUser.java
+<<<<<<< HEAD
 //  @ Date : 2013-1-3
 //  @ Author : windy
+=======
+//  @ Date : 2013-1-2
+//  @ Author : 
+>>>>>>> origin/master
 //
 //
 
 
 
 
+<<<<<<< HEAD
 /**
  * 系统用户抽象类，定义系统用户数据结构
 **/
 public abstract class PaltFormUser extends PlatformEntryUtil {
+=======
+public abstract class PaltFormUser extends IPaltFormEntriy {
+>>>>>>> origin/master
 	protected Long uid;
 	protected String username;
 	protected Integer sex;
@@ -26,5 +35,8 @@ public abstract class PaltFormUser extends PlatformEntryUtil {
 	protected String mail;
 	protected String password;
 	protected String phone;
+<<<<<<< HEAD
 	protected List<SystemRole> UserRoles;
+=======
+>>>>>>> origin/master
 }

@@ -4,16 +4,24 @@
 //
 //  @ Project : TeamServiceManager
 //  @ File Name : IPaltFormEntriy.java
+<<<<<<< HEAD
 //  @ Date : 2013-1-3
 //  @ Author : windy
+=======
+//  @ Date : 2013-1-2
+//  @ Author : 
+>>>>>>> origin/master
 //
 //
 
 
 
 
+<<<<<<< HEAD
 /**
  * 系统实体公共接口，继承序列化接口，完成对象序列化工作。
 **/
+=======
+>>>>>>> origin/master
 public interface IPaltFormEntriy {
 }
