@@ -11,9 +11,13 @@
 
 
 
+package com.amos.platform.common.entry;
+
 
 /**
  * 项目经理用户类
 **/
 public class projectManager extends SystemRole {
+
+	
 }

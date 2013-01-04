@@ -4,13 +4,16 @@
 //
 //  @ Project : TeamServiceManager
 //  @ File Name : TeamLeader.java
-//  @ Date : 2013-1-2
-//  @ Author : 
+//  @ Date : 2013-1-3
+//  @ Author : windy
 //
 //
 
 
 
 
-public class TeamLeader extends PaltFormUser {
+/**
+ * 开发经理用户类
+**/
+public class TeamLeader extends SystemRole {
 }

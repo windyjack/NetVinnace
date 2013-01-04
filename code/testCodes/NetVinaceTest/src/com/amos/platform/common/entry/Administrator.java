@@ -11,9 +11,13 @@
 
 
 
+package com.amos.platform.common.entry;
+
 
 /**
  * 最高管理员用户类
 **/
 public class Administrator extends SystemRole {
+	
+
 }

@@ -4,13 +4,13 @@
 //
 //  @ Project : TeamServiceManager
 //  @ File Name : Member.java
-//  @ Date : 2013-1-2
-//  @ Author : 
+//  @ Date : 2013-1-3
+//  @ Author : windy
 //
 //
 
 
 
 
-public class Member extends PaltFormUser {
+public class Member extends SystemRole {
 }

@@ -11,6 +11,10 @@
 
 
 
+package com.amos.platform.common.entry;
+
+import java.util.List;
+
 
 /**
  * 系统用户抽象类，定义系统用户数据结构
@@ -27,4 +31,11 @@ public abstract class PaltFormUser extends PlatformEntryUtil {
 	protected String password;
 	protected String phone;
 	protected List<SystemRole> UserRoles;
+	/**
+	 *
+	 * @param    clzName  String clzName  完整类名（包括:包名，类名）
+	 *                    格式xxx.xx.xx
+	 *                    例子：amos.platform.common.SystemRole 
+	**/
+
 }
